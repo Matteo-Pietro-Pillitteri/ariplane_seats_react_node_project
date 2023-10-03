@@ -1,0 +1,21 @@
+.lightgreenstyle{
+    background-color: rgba(193, 246, 193, 0.526);
+}
+
+
+
+#booksits{
+    position: fixed;
+    bottom: 4%;
+    right: 2%;	
+}
+
+.planeMap{
+    background-color: #76aaf9a0;
+    border-radius: 16%;
+}
+
+
+.sidebar{
+    cursor: default !important;
+}
